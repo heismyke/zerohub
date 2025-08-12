@@ -28,12 +28,14 @@ A beautiful, minimal, and responsive React application designed specifically for
 ## 🎯 Pages
 
 ### Dashboard
+
 - Overview of key metrics
 - Today's appointments
 - Quick action buttons
 - Recent activity
 
 ### Booking
+
 - Multi-step booking process
 - Client selection/creation
 - Service selection
@@ -41,6 +43,7 @@ A beautiful, minimal, and responsive React application designed specifically for
 - Appointment confirmation
 
 ### Schedule
+
 - Daily timeline view
 - Appointment details
 - Client information
@@ -48,6 +51,7 @@ A beautiful, minimal, and responsive React application designed specifically for
 - Day summary
 
 ### Calendar
+
 - Monthly calendar overview
 - Appointment indicators
 - Navigation between months
@@ -56,17 +60,20 @@ A beautiful, minimal, and responsive React application designed specifically for
 ## 🛠️ Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/zero-hub.git
    cd zero-hub
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Start the development server**
+
    ```bash
    npm start
    ```
@@ -77,6 +84,7 @@ A beautiful, minimal, and responsive React application designed specifically for
 ## 📱 Responsive Design
 
 The application is built with a mobile-first approach and includes:
+
 - Responsive sidebar navigation
 - Mobile-friendly forms
 - Touch-optimized interactions
@@ -115,18 +123,21 @@ src/
 ## 🌟 Key Features
 
 ### Beautiful UI Components
+
 - Custom Tailwind CSS components
 - Smooth transitions and animations
 - Professional color scheme
 - Modern typography with Inter font
 
 ### Responsive Navigation
+
 - Collapsible sidebar
 - Mobile-friendly navigation
 - Active state indicators
 - Smooth transitions
 
 ### Appointment Management
+
 - Intuitive booking flow
 - Client information storage
 - Service categorization
@@ -176,4 +187,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the beauty industry**
 
-*Zero Hub - Where style meets simplicity*
+_Zero Hub - Where style meets simplicity_
